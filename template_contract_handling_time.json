@@ -1,0 +1,33 @@
+{
+  "snapshot_date_time": "DATE",
+  "values": [
+    {
+      "custumer": "id",
+      "categories": [
+        {
+          "id": "id",
+          "name_category": "string",
+          "general_hangling_time": "DATETIME",
+          "cust_handling_time": "DATETIME"
+        },
+        {
+          "id": "id2",
+          "name_category": "string",
+          "general_hangling_time": "DATETIME",
+          "cust_handling_time": "DATETIME"
+        }
+      ]
+    },
+    {
+      "custumer": "id",
+      "categories": [
+        {
+          "id": "id",
+          "name_category": "string",
+          "general_hangling_time": "DATETIME",
+          "cust_handling_time": "DATETIME"
+        }
+      ]
+    }
+  ]
+}
